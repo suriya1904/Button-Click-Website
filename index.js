@@ -10,7 +10,7 @@ function decrement(){
     document.getElementById("count-el").innerHTML=count;
 }
 function save(){
-    console.log(count);
+    document.getElementById("save").innerHTML=count;
 }
 
 

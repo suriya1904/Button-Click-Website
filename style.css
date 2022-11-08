@@ -17,7 +17,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-button {
+button ,p{
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -38,4 +38,12 @@ button {
 
 #save-btn {
     background: darkgreen;
+}
+p{
+    width: 200px;
+    height: 20px;
+    margin-left: 330px;
+    background: lightgreen;
+    color: black;
+    font-weight: 700;
 }
